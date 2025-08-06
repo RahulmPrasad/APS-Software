@@ -12,7 +12,7 @@ root.render(
     domain="dev-izrjxexzwsuc1f3j.us.auth0.com"
     clientId="4v24rLL9c2tjJzJcdI4SVLUHoqSRtK9G"
     authorizationParams={{
-      redirect_uri: window.location.origin + "/APS-Software"
+      redirect_uri: "https://rahulmprasad.github.io/APS-Software"
     }}
     >
     <App />
